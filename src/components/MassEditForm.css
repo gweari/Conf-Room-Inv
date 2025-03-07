@@ -1,0 +1,69 @@
+.mass-edit-form {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.search-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.room-list {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.room-label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.table-container {
+  overflow-x: auto;
+}
+
+.mass-edit-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.mass-edit-table th, .mass-edit-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.mass-edit-table th {
+  background-color: #f2f2f2;
+}
+
+.button-group {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.sticky-buttons {
+  position: sticky;
+  bottom: 0;
+  background: white;
+  padding: 10px 0;
+}
