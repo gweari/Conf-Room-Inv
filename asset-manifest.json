@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/conf-room-inv/static/js/main.c500c78d.js",
+    "index.html": "/conf-room-inv/index.html",
+    "main.c500c78d.js.map": "/conf-room-inv/static/js/main.c500c78d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c500c78d.js"
+  ]
+}
