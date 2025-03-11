@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gweari.github.io/conf-room-inv",
+  "homepage": "https://gweari.github.io/Conf-Room-Inv",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
@@ -17,6 +17,7 @@
     "papaparse": "^5.5.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^7.3.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
